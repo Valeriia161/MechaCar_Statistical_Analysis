@@ -20,6 +20,11 @@ Using my knowledge of R, I designed a linear model that predicts the mpg of Mech
 
 ![image](https://user-images.githubusercontent.com/110998103/202864132-c786c443-3ec8-4ec1-97b5-2f2b9367361e.png)
 
+Using a screenshot of the output from the linear regression, I can make a conclusion that: <br/>
+1.	Vehicle_length, Vehicle_weight, Spoiler_angle, Ground_clearance and AWD  provide a non-random amount of variance to the mpg values in the dataset. <br/>
+2.	 Slope is not considered to be 0 because p-value = 5.35e-11. <br/>
+3. 	This linear model effectively predicts mpg of MechaCar prototypes because r-squared value = .7149 . <br/>
+
 
 ## 2. Summary Statistics on Suspension Coil. <br/>
 Using my knowledge of R, I created a summary statistics table to show: <br/>

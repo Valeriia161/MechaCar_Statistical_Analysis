@@ -52,6 +52,17 @@ PSI across all manufacturing lots is statistically similar to the population mea
 The next three t-tests were used to determine if the PSI across each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. <br/>
 
 ## 4. Study Design: MechaCar vs Competition. <br/>
-Using my knowledge of R, I designed a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers. <br/>
+To continue helping AutosRUs’ to prepare their the MechaCar to be a competitive alternative when launch, some studies around cost, fuel efficiency, horsepower, maintenance cost and safety rating would be highly recommended.  <br/>
+##### METRICS TO TEST. <br/>
+How does the safety rating (how vehicles perform in crash tests:rontal, side and rollover) of the MechaCar compare to the competition? <br/>
+##### NULL HYPOTHESIS OR ALTERNATIVE HYPOTHESIS. <br/>
+My Null hypothesis : There is no difference between MechaCar's safety rating vs the competition. <br/>
+My  Alternative hypothesis: There is a difference between MechaCar's safety rating vs the competition. <br/>
+##### STATISTICAL TEST. <br/>
+Two sample t-test. <br/>
+##### DATA REQUIRED. <br/>
+•	The NHTSA Vehicle Crash Test Data. <br/>
+•	Traffic Crash Data. <br/>
+•	Motor Vehicle Safety Data. <br/>
 
 

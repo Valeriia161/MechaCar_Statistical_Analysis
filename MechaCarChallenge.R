@@ -30,3 +30,17 @@ summary_lot <- del2_table %>% group_by(Manufacturing_Lot)%>%summarize(Mean=mean(
 
 
 # Deliverable 3
+ 
+# Create t-test across all manufacturing lots
+
+t.test(del2_table$PSI, mu=1500)
+
+# Create t-test for each manufacturing lot.
+
+t.test(subset(del2_table,Manufacturing_Lot=="Lot1")$PSI,mu = 1500)
+
+
+t.test(subset(del2_table,Manufacturing_Lot=="Lot2")$PSI,mu = 1500)
+
+
+t.test(subset(del2_table,Manufacturing_Lot=="Lot3")$PSI,mu = 1500)

@@ -37,3 +37,4 @@ Using my knowledge of R, I created a summary statistics table to show: <br/>
 ## 3. T-Tests on Suspension Coils.
 Using my knowledge of R, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. <br/>
 
+![image](https://user-images.githubusercontent.com/110998103/202871025-a5962346-d29d-4a01-be0b-295b34970690.png)

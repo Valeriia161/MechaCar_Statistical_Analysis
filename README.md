@@ -20,3 +20,20 @@ Using my knowledge of R, I designed a linear model that predicts the mpg of Mech
 
 ![image](https://user-images.githubusercontent.com/110998103/202864132-c786c443-3ec8-4ec1-97b5-2f2b9367361e.png)
 
+
+## 2. Summary Statistics on Suspension Coil. <br/>
+Using my knowledge of R, I created a summary statistics table to show: <br/>
+•	The suspension coil’s PSI continuous variable across all manufacturing lots. <br/>
+
+![image](https://user-images.githubusercontent.com/110998103/202864818-61e523c9-d3c7-4ea8-b6f7-87c7a5334266.png)
+
+
+•	The following PSI metrics for each lot: mean, median, variance, and standard deviation. <br/>
+
+
+![image](https://user-images.githubusercontent.com/110998103/202865144-944ab65f-dd29-4ea2-a337-3b8eace4e2ea.png)
+
+
+## 3. T-Tests on Suspension Coils.
+Using my knowledge of R, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. <br/>
+
